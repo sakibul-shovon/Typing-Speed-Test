@@ -37,4 +37,4 @@ open index.html
 <p>Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+

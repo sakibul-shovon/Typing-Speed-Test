@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typing Speed Test</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Typing Speed test</h1>
+      <p id="timer-display">Timer : 00:00</p>
+
+      <div class="timer-options">
+        <button class="button-74" role="button" data-duration="15">
+          15 seconds
+        </button>
+        <button class="button-74" role="button" data-duration="30">
+          30 seconds
+        </button>
+        <button class="button-74" role="button" data-duration="60">
+          60 seconds
+        </button>
+      </div>
+
+      <p id="quote">Click "Start test" to begin</p>
+      <input
+        type="text"
+        id="input-box"
+        placeholder="Start Typing here"
+        disabled
+      />
+      <button id="start-test">Start Test</button>
+      <div id="result-div"></div>
+    </div>
+
+    
+    
+    <script src="script.js"></script>
+  </body>
+</html>

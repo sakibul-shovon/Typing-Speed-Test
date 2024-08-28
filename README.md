@@ -22,7 +22,7 @@
 
 <h2>Getting Started</h2>
 <p>To run the project locally, simply clone the repository and open the <code>index.html</code> file in your web browser.</p>
-<pre><code>git clone https://github.com/yourusername/typing-speed-test.git
+<pre><code>git clone https://github.com/sakibul-shovon/Typing-Speed-Test.git
 cd typing-speed-test
 open index.html
 </code></pre>

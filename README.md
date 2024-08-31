@@ -40,5 +40,4 @@ open index.html
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.</p>
 
-<h2>License</h2>
 

@@ -3,7 +3,7 @@
 
 
 
-<h1>Typing Speed Test</h1>
+<h3>Typing Speed Test</h3>
 <h1>Live Link : https://typing-speed-test-pi.vercel.app/</h1>
 
 <p>A <strong>Typing Speed Test</strong> application built with <strong>HTML, CSS, and JavaScript</strong>. This project allows users to test their typing speed by displaying random quotes that they need to type within a selected time limit. The application highlights typed text as correct or incorrect in real-time and calculates the Words Per Minute (WPM) at the end of the test.</p>
